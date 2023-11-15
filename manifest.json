@@ -1,0 +1,16 @@
+{
+  "short_name": "PWA RIFKI",
+  "name": "UTS PWA RIFKI",
+  "description": "Proyek PWA untuk Mobile Programming",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0077b5",
+  "icons": [
+      {
+          "src": "icon.png",
+          "sizes": "90x90",
+          "type": "image/png"
+      }
+  ]
+}
